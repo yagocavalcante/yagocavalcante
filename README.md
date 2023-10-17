@@ -1,11 +1,11 @@
-### Olá, Eu sou Yago Cavalcante
+### Hello there! My name is Yago Cavalcante. 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yagocavalcante_dev?igshid=MzMyNGUyNmU2YQ%3D%3D&utm_source=qr)
 [![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yago-cavalcante-especialista-em-desenvolvimento-full-stack-6a1514137)
 
 ![Yago Cavalcante GitHub stats](https://github-readme-stats.vercel.app/api?username=yagocavalcante&show_icons=true&theme=dracula)
 
-## Tecnologias que uso no meu dia
+## Skills
 
 <div style="display: inline_block"></br>
 <img align="center" alt="hmtl5" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
